@@ -1,9 +1,9 @@
 # Fractal
-programme fait rapidement pour générer des fractale
+programme pour générer des fractales
 
-zoomer avec le scroll
+zoomez avec le scroll
 
-diriger en maintenant cliquer
+dirigez en maintenant le clic
 
 ![image de fractal simple](https://github.com/Jules-Latapy/Fractal/blob/main/img/base.png?raw=true)
 
